@@ -11,4 +11,11 @@
 var myVar = "Hello, Code";
 ```
 
+## This is the forth step where you add  a task list 
+### This is the task list
+- [x] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 
